@@ -1,5 +1,5 @@
-<h1 align="center">Inssen</h1>
-<h4 align="center">A blood donation app for saving lives</h4>
+<h1 align="center">Blood Bank</h1>
+<h4 align="center">A blood donation app </h4>
 
 <br>
 
